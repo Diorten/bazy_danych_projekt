@@ -1,0 +1,242 @@
+{
+    "1": {
+        "skill_id": 1,
+        "faction": "Northern Realms",
+        "name": "Inspired Zeal",
+        "description": "Order: Boost an allied Northern Realms unit by 2 and give it Zeal. Charge: 3",
+        "description_html": "<span class='keyword order'>Order</span>: Boost an allied Northern Realms unit by 2 and give it <span class='keyword zeal'>Zeal</span>. Charge: 3",
+        "bonus_provisions": 15
+    },
+    "2": {
+        "skill_id": 2,
+        "faction": "Northern Realms",
+        "name": "Vicious Slash",
+        "description": "Order: Damage an enemy unit by 8. Deathblow: Give adjacent units Bleeding for a duration equal to any excess damage dealt.",
+        "description_html": "<span class='keyword order'>Order</span>: Damage an enemy unit by 8. <span class='keyword deathblow'>Deathblow</span>: Give adjacent units <span class='keyword bleeding'>Bleeding</span> for a duration equal to any excess damage dealt.",
+        "bonus_provisions": 15
+    },
+    "3": {
+        "skill_id": 3,
+        "faction": "Northern Realms",
+        "name": "Mobilization",
+        "description": "Order: Spawn a base copy of a bronze allied Soldier on its row and boost it by 3.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword spawn'>Spawn</span> a base copy of a bronze allied Soldier on its row and boost it by 3.",
+        "bonus_provisions": 16
+    },
+    "4": {
+        "skill_id": 4,
+        "faction": "Northern Realms",
+        "name": "Stockpile",
+        "description": "Order: Give 1 Charge to an allied unit. Cooldown: 2.",
+        "description_html": "<span class='keyword order'>Order</span>: Give 1 <span class='keyword charge'>Charge</span> to an allied unit. <span class='keyword cooldown'>Cooldown</span>: 2.",
+        "bonus_provisions": 17
+    },
+    "5": {
+        "skill_id": 5,
+        "faction": "Northern Realms",
+        "name": "Pincer Manaeuver",
+        "description": "Order: Draw a Northern Realms card of your choice, then shuffle a card from your hand back into the deck and Spawn a Volunteer in your Meele row.\n\nCharges: 2",
+        "description_html": "<span class='keyword order'>Order</span>: Draw a Northern Realms card of your choice, then shuffle a card from your hand back into the deck and <span class='keyword spawn'>Spawn</span> a Volunteer in your Meele row.\n\nCharges: 2",
+        "bonus_provisions": 15
+    },
+    "6": {
+        "skill_id": 6,
+        "faction": "Northern Realms",
+        "name": "Royal Inspiration",
+        "description": "Order: Boost an allied unit by 1. Cooldown: 2",
+        "description_html": "<span class='keyword order'>Order</span>: Boost an allied unit by 1. <span class='keyword cooldown'>Cooldown</span>: 2",
+        "bonus_provisions": 16
+    },
+    "7": {
+        "skill_id": 7,
+        "faction": "Nilfgaard",
+        "name": "Tactical Decision",
+        "description": "Order: Spawn and play Morvran Voorhis.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword spawn'>Spawn</span> and play Morvran Voorhis.",
+        "bonus_provisions": 17
+    },
+    "8": {
+        "skill_id": 9,
+        "faction": "Nilfgaard",
+        "name": "Double Cross",
+        "description": "Order: Create and play a card from your opponent's hand.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword create'>Create</span> and play a card from your opponent's hand.",
+        "bonus_provisions": 16
+    },
+    "9": {
+        "skill_id": 10,
+        "faction": "Nilfgaard",
+        "name": "Strategic Withdrawal",
+        "description": "Order: Move an allied Nilfgaardian unit to your hand and boost it by 2, then play a card.",
+        "description_html": "<span class='keyword order'>Order</span>: Move an allied Nilfgaardian unit to your hand and boost it by 2, then play a card.",
+        "bonus_provisions": 16
+    },
+    "10": {
+        "skill_id": 11,
+        "faction": "Nilfgaard",
+        "name": "Imperial Formation",
+        "description": "Order: Boost an allied unit by 2. Charge: 4.\nOnce all Charges have been exhausted, move a Soldier unit from your deck to the top.",
+        "description_html": "<span class='keyword order'>Order</span>: Boost an allied unit by 2. <span class='keyword charge'>Charge</span>: 4.\nOnce all <span class='keyword charge'>Charges</span> have been exhausted, move a Soldier unit from your deck to the top.",
+        "bonus_provisions": 15
+    },
+    "11": {
+        "skill_id": 12,
+        "faction": "Nilfgaard",
+        "name": "Lockdown",
+        "description": "Order: On game start, disable the enemy Leader for the duration of the battle.",
+        "description_html": "<span class='keyword order'>Order</span>: On game start, disable the enemy Leader for the duration of the battle.",
+        "bonus_provisions": 10
+    },
+    "12": {
+        "skill_id": 13,
+        "faction": "Nilfgaard",
+        "name": "Enslave",
+        "description": "Order: Seize an enemy unit with 3 or less power. This value is raised by 1 for every 4 Tactic cards in your starting deck.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword seize'>Seize</span> an enemy unit with 3 or less power. This value is raised by 1 for every 4 Tactic cards in your starting deck.",
+        "bonus_provisions": 16
+    },
+    "13": {
+        "skill_id": 14,
+        "faction": "Monster",
+        "name": "Carapace",
+        "description": "Order: Boost an allied unit by 3 and give it Shield.\nCharge: 2.",
+        "description_html": "<span class='keyword order'>Order</span>: Boost an allied unit by 3 and give it <span class='keyword shield'>Shield</span>.\n<span class='keyword charge'>Charge</span>: 2.",
+        "bonus_provisions": 16
+    },
+    "14": {
+        "skill_id": 15,
+        "faction": "Monster",
+        "name": "Force of Nature",
+        "description": "Order: Boost a unit in your hand by 8",
+        "description_html": "<span class='keyword order'>Order</span>: Boost a unit in your hand by 8",
+        "bonus_provisions": 16
+    },
+    "15": {
+        "skill_id": 16,
+        "faction": "Monster",
+        "name": "Arachas Swarm",
+        "description": "Order: Spawn an Arachas Drone and <span class='keyword summon'>Summon</span> it to an allied row. Charge: 3.\n Whenever an allied unit is destroyed during your turn, Spawn an Arachas Drone and Summon it to a random allied row.",
+        "description_html": "<span class='keyword order'>Order</span>rder: <span class='keyword spawn'>Spawn</span> an Arachas Drone and <span class='keyword summon'>Summon</span> it to an allied row. <span class='keyword charge'>Charge</span>: 3.\n Whenever an allied unit is destroyed during your turn, <span class='keyword spawn'>Spawn</span> an Arachas Drone and <span class='keyword summon'>Summon</span> it to a random allied row.",
+        "bonus_provisions": 15
+    },
+    "16": {
+        "skill_id": 17,
+        "faction": "Monster",
+        "name": "Blood Scent",
+        "description": "Order: Give an enemy unit Bleeding for 3 turns.\nCharge: 3. Once all Charges are used up, Spawn an Ekimmara into a random allied row.",
+        "description_html": "<span class='keyword order'>Order</span>: Give an enemy unit <span class='keyword bleeding'>Bleeding</span> for 3 turns.\n<span class='keyword charge'>Charge</span>: 3. Once all <span class='keyword charge'>Charges</span> are used up, <span class='keyword spawn'>Spawn</span> an Ekimmara into a random allied row.",
+        "bonus_provisions": 15
+    },
+    "17": {
+        "skill_id": 18,
+        "faction": "Monster",
+        "name": "Death's Shadow",
+        "description": "Order: Trigger an allied unit's Deathwish ability. On round start, refresh this ability.",
+        "description_html": "<span class='keyword order'>Order</span>: Trigger an allied unit's <span class='keyword deathwish'>Deathwish</span> ability. On round start, refresh this ability.",
+        "bonus_provisions": 15
+    },
+    "18": {
+        "skill_id": 19,
+        "faction": "Monster",
+        "name": "Fruits of Ysgith",
+        "description": "Order: Spawn and Summon Gernichora's Fruit on an allied row. Every allied turn, on round start, refresh this ability if you do not control any Fruits.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword spawn'>Spawn</span> and <span class='keyword summon'>Summon</span> Gernichora's Fruit on an allied row. Every allied turn, on round start, refresh this ability if you do not control any Fruits.",
+        "bonus_provisions": 11
+    },
+    "19": {
+        "skill_id": 20,
+        "faction": "Scoiatael",
+        "name": "Precision Strike",
+        "description": "Order: Damage a unit by 1. Charge: 4",
+        "description_html": "<span class='keyword order'>Order</span>: Damage a unit by 1. <span class='keyword charge'>Charge</span>: 4",
+        "bonus_provisions": 18
+    },
+    "20": {
+        "skill_id": 21,
+        "faction": "Scoiatael",
+        "name": "Call of Harmony",
+        "description": "Order: Play a Scoia'teal card from your deck with 0 Provision Cost or less.\nThis value is raised by 1 for every unique primary category among Scoia'teal cards in your starting deck.",
+        "description_html": "<span class='keyword order'>Order</span>: Play a Scoia'teal card from your deck with 0 Provision Cost or less.\nThis value is raised by 1 for every unique primary category among Scoia'teal cards in your starting deck.",
+        "bonus_provisions": 16
+    },
+    "21": {
+        "skill_id": 22,
+        "faction": "Scoiatael",
+        "name": "Deadeye Ambush",
+        "description": "Order: Transform a face-up allied trap into an Elven Deadeye.\nCharge: 4.",
+        "description_html": "<span class='keyword order'>Order</span>: Transform a face-up allied trap into an Elven Deadeye.\n<span class='keyword charge'>Charge</span>: 4.",
+        "bonus_provisions": 16
+    },
+    "22": {
+        "skill_id": 23,
+        "faction": "Scoiatael",
+        "name": "Invigorate",
+        "description": "Order: Boost all units in your hand by 1.",
+        "description_html": "<span class='keyword order'>Order</span>: Boost all units in your hand by 1.",
+        "bonus_provisions": 15
+    },
+    "23": {
+        "skill_id": 24,
+        "faction": "Scoiatael",
+        "name": "Mystic Echo",
+        "description": "Order: Play a Scoia'teal special card from your graveyard.",
+        "description_html": "<span class='keyword order'>Order</span>: Play a Scoia'teal special card from your graveyard.",
+        "bonus_provisions": 15
+    },
+    "24": {
+        "skill_id": 25,
+        "faction": "Scoiatael",
+        "name": "Guerilla Tactics",
+        "description": "Order: Move a unit to the other row. If it's an enemy, damage it by 2;\nIf it's an ally, boost it by 2.\nCharge: 3.",
+        "description_html": "<span class='keyword order'>Order</span>: Move a unit to the other row. If it's an enemy, damage it by 2;\nIf it's an ally, boost it by 2.\n<span class='keyword charge'>Charge</span>: 3.",
+        "bonus_provisions": 14
+    },
+    "25": {
+        "skill_id": 26,
+        "faction": "Skellige",
+        "name": "Ursine Ritual",
+        "description": "Order: Damage an allied unit by 1. Charge: 5\n Once all Charges have been exhausted, Spawn a Bear Abomination and Summon it to a random allied row.",
+        "description_html": "<span class='keyword order'>Order</span>: Damage an allied unit by 1. <span class='keyword charge'>Charge</span>: 5\n Once all <span class='keyword charge'>Charges</span> have been exhausted, <span class='keyword spawn'>Spawn</span> a Bear Abomination and <span class='keyword summon'>Summon</span> it to a random allied row.",
+        "bonus_provisions": 17
+    },
+    "26": {
+        "skill_id": 27,
+        "faction": "Skellige",
+        "name": "Onslaught",
+        "description": "Order: Damage an enemy unit by 1.\nCooldown: 2.",
+        "description_html": "<span class='keyword order'>Order</span>: Damage an enemy unit by 1.\n<span class='keyword cooldown'>Cooldown</span>: 2.",
+        "bonus_provisions": 16
+    },
+    "27": {
+        "skill_id": 28,
+        "faction": "Skellige",
+        "name": "Patricidal Fury",
+        "description": "Order: Spawn and play Arnjolf The Patricide.\n\n ARNJOLF THE PATRICIDE\nDoomed.\nSpawn 3 Deafening Sirens on the opposite row and damage them by 1.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword spawn'>Spawn</span> and play Arnjolf The Patricide.\n\n ARNJOLF THE PATRICIDE\n<span class='keyword doomed'>Doomed</span>.\n<span class='keyword spawn'>Spawn</span> 3 Deafening Sirens on the opposite row and damage them by 1.",
+        "bonus_provisions": 16
+    },
+    "28": {
+        "skill_id": 29,
+        "faction": "Skellige",
+        "name": "Reckless Flurry",
+        "description": "Order: Spli 8 damage randomly between all enemy units.",
+        "description_html": "<span class='keyword order'>Order</span>: Spli 8 damage randomly between all enemy units.",
+        "bonus_provisions": 15
+    },
+    "29": {
+        "skill_id": 30,
+        "faction": "Skellige",
+        "name": "Sacrificial Vanguard",
+        "description": "Order: Discard a card, then draw a card.\nOn round start, refresh this ability. Whenever you Discard a card, damage a random enemy unit by 1.",
+        "description_html": "<span class='keyword order'>Order</span>: <span class='keyword discard'>Discard</span> a card, then draw a card.\nOn round start, refresh this ability. Whenever you <span class='keyword discard'>Discard</span> a card, damage a random enemy unit by 1.",
+        "bonus_provisions": 15
+    },
+    "30": {
+        "skill_id": 31,
+        "faction": "Skellige",
+        "name": "Second Wind",
+        "description": "Order: Play a Skellige unit from your graveyard.",
+        "description_html": "<span class='keyword order'>Order</span>: Play a Skellige unit from your graveyard.",
+        "bonus_provisions": 15
+    }
+}
